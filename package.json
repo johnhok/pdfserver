@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-range": "^2.0.1",
+    "express-throttle-bandwidth": "^1.0.1",
+    "express-throttle-requests": "^1.0.4",
+    "send-seekable": "^1.0.4"
+  }
+}
